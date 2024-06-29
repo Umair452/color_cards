@@ -1,0 +1,22 @@
+.square {
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+  
+    margin: 5px;
+  }
+  .red {
+    background-color: red;
+  }
+  .green {
+    background-color: green;
+  }
+  .blue {
+    background-color: blue;
+  }
+  .yellow {
+    background-color: yellow;
+  }
